@@ -1,0 +1,11 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+:root {
+    --white: #f7f7f7;
+    --black: #262626;
+    --grey: #8e9297;
+    --light-grey: #dadada;
+    --red:  #f02727;
+}
